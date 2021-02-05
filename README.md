@@ -22,7 +22,7 @@ Pursuing Web Development as hobbies/side hustles.
 
 
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
 💻 &nbsp; Python | Java | C | MySQL
