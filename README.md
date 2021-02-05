@@ -8,14 +8,12 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true"><br/>
 
 <h2>About Me</h2>
 
 - Exploring new technologies and developing software solutions and quick hacks.
 
 - Recently completed Graduation from KORM CE at Kadapa, Andhra Pradesh .
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 
 - Learning about Cloud Tech, Systems Design.
 
@@ -23,8 +21,7 @@
 
 
 
-<h3>🛠 Tech Stack</h3>
-
+<h2>🛠 Tech Stack</h2>
 
 
 - 💻 &nbsp; Python | Java | C | MySQL
@@ -35,7 +32,10 @@
 
 - 🔧 &nbsp; Git | Firebase | Netlify
 
+---
 
+<img align="Left" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true"><br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 
 
 
