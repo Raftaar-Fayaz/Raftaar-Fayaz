@@ -1,4 +1,4 @@
-### Hey Fayaz here 
+## Hey Fayaz here 
 
 ---
 
@@ -17,7 +17,7 @@
 
 - Exploring new technologies and developing software solutions and quick hacks.
 
-- Recently Completed Graduation From <h4>KORM CE</h4> at Kadapa .
+- Recently completed Graduation from KORM CE at Kadapa, Andhra Pradesh .
 
 - Learning about Cloud Tech, Systems Design.
 
