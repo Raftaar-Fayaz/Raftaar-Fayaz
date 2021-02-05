@@ -12,17 +12,16 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaronzz&show_icons=true&hide_border=true">
 
 
-<h3> 👨🏻•💻 About Me </h3>
+<h2>About Me</h2>
 
 
+- Exploring new technologies and developing software solutions and quick hacks.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- Recently Completed Graduation From <h4>KORM CE</h4> at Kadapa .
 
-- 🎓 &nbsp; Recently Completed Graduation From <h4>KORM CE</h4> at Kadapa .
+- Learning about Cloud Tech, Systems Design.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- Pursuing Web Development as hobbies/side hustles.
 
 
 
