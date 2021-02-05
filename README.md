@@ -8,31 +8,35 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-- Exploring new technologies and developing software solutions and quick hacks.
+  Exploring new technologies and developing software solutions and quick hacks.
  </p>
 <p align="center">
-- Recently completed Graduation from KORM CE at Kadapa, Andhra Pradesh .
+Recently completed Graduation from KORM CE at Kadapa, Andhra Pradesh .
  </p>
 <p align="center">
-- Learning about Cloud Tech, Systems Design.
+Learning about Cloud Tech, Systems Design.
  </p>
 <p align="center">
-- Pursuing Web Development as hobbies/side hustles.
+Pursuing Web Development as hobbies/side hustles.
  </p>
 
 
 
-<h2>🛠 Tech Stack</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
-
-- 💻 &nbsp; Python | Java | C | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-
-- 🖥 &nbsp; Illustrator| Photoshop | Adobe XD
-
-- 🔧 &nbsp; Git | Firebase | Netlify
-
+<p align="center">
+💻 &nbsp; Python | Java | C | MySQL
+ </p>
+<p align="center">
+🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+ </p>
+<p align="center">
+🖥 &nbsp; Illustrator| Photoshop | Adobe XD
+ </p>
+<p align="center">
+🔧 &nbsp; Git | Firebase | Netlify
+ </p>
+ 
 ---
 
 <h2 align="center"> Top Languages Used & Stats</h2>
