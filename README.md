@@ -8,16 +8,11 @@
 
 ---
 
-<p align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true"><br/>
-</p>
-<p align="right">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
-</p>
 
 <h2>About Me</h2>
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 - Exploring new technologies and developing software solutions and quick hacks.
 
 - Recently completed Graduation from KORM CE at Kadapa, Andhra Pradesh .
