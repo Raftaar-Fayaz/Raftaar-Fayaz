@@ -11,4 +11,4 @@
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**..
