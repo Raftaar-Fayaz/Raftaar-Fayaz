@@ -4,7 +4,7 @@
 
 <p align="center">
   
-  <img src="https://imageupload.io/mYjujDG592.i" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://cdn.imageupload.workers.dev/H6h9NKNF_Title%20Card%20-%20Git.jpg" width="100%" title="Intro Card" alt="Intro Card">
   
   <img src="https://i.ibb.co/jWP6C7c/Title-Card-Git.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
