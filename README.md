@@ -39,6 +39,12 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ---
 
 <h2> Other Accounts 📫 </h2>
