@@ -12,10 +12,10 @@
 
 <h2>About Me</h2>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 - Exploring new technologies and developing software solutions and quick hacks.
 
 - Recently completed Graduation from KORM CE at Kadapa, Andhra Pradesh .
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 
 - Learning about Cloud Tech, Systems Design.
 
