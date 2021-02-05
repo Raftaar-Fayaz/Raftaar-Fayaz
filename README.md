@@ -34,8 +34,11 @@
 
 ---
 
-<img align="Left" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true"><br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
+<h2>Git Top Lanuages & Stats</h2>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true"><br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 
 
 
