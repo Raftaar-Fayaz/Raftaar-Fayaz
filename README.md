@@ -19,6 +19,7 @@
 
 - Pursuing Web Development as hobbies/side hustles.
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 
 
 <h2>🛠 Tech Stack</h2>
@@ -34,13 +35,9 @@
 
 ---
 
-<h2>Git Top Lanuages & Stats</h2>
+<h2 align="right>Git Top Lanuages & Stats</h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
-</p>
-<br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 
 ---
 
