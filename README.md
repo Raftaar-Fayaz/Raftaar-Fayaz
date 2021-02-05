@@ -8,14 +8,8 @@
 
 ---
 
-**Github Stats:**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&hide=stars&show_icons=true&theme=dracula&line_height=32">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yaronzz&show_icons=true&hide_border=true">
 
-</p>
 
 ---
