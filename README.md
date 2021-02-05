@@ -27,7 +27,6 @@
 - Pursuing Web Development as hobbies/side hustles.
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 
 <h3>🛠 Tech Stack</h3>
 
@@ -41,7 +40,6 @@
 
 - 🔧 &nbsp; Git | Firebase | Netlify
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 
 
 
