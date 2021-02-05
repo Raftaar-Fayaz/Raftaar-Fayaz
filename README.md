@@ -7,13 +7,18 @@
 
 <h2 align="center">About Me</h2>
 
+<p align="center">
 - Exploring new technologies and developing software solutions and quick hacks.
-
+ </p>
+<p align="center">
 - Recently completed Graduation from KORM CE at Kadapa, Andhra Pradesh .
-
+ </p>
+<p align="center">
 - Learning about Cloud Tech, Systems Design.
-
+ </p>
+<p align="center">
 - Pursuing Web Development as hobbies/side hustles.
+ </p>
 
 
 
