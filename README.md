@@ -1,7 +1,3 @@
-## Hey Fayaz here 
-
----
-
 <p align="center">  
   <img src="https://i.ibb.co/jWP6C7c/Title-Card-Git.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
@@ -64,6 +60,11 @@
 </p>
 <p align="center">
   <a href="https://fayaz-ahameds-portfolio.netlify.app/"><h2 align="center">Portfolio</h2></a>
+</p>
+
+---
+
+### Good Luck From [Raftaar-Fayaz](https://github.com/Raftaar-Fayaz)
 
 
 
