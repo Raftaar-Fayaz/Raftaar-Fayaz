@@ -35,11 +35,9 @@
 
 ---
 
-<h2 align="right">Git Top Lanuages & Stats</h2>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 
----
 
 <h2> Other Accounts 📫 </h2>
 
