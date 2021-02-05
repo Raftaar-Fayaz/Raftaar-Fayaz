@@ -41,17 +41,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ---
 
 
-<h2 align="center"> Other Accounts 📫 </h2>
+<h2> Other Accounts 📫 </h2>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/fayaz-ahamed-shaik"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
