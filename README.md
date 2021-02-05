@@ -5,7 +5,7 @@
 ---
 
 
-<h2>About Me</h2>
+<h2 align="center">About Me</h2>
 
 - Exploring new technologies and developing software solutions and quick hacks.
 
@@ -64,7 +64,7 @@
 
 ---
 
-### Good Luck From [Raftaar-Fayaz](https://github.com/Raftaar-Fayaz)
+<h1 align="center"> Good Luck From [Raftaar-Fayaz](https://github.com/Raftaar-Fayaz) </h1>
 
 
 
