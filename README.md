@@ -36,17 +36,15 @@
 
 <h2>Git Top Lanuages & Stats</h2>
 
+<p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true"><br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
-
+</p>
 <br/>
 
 ---
 
-
-<h2 align="left"> Other Accounts 📫 </h2>
-
-
+<h2> Other Accounts 📫 </h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fayaz-ahamed-shaik"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
