@@ -52,7 +52,7 @@
 
 ---
 
-<h2 align="center"> Other Accounts 📫 </h2>
+<h2 align="center"> Get In Touch </h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fayaz-ahamed-shaik"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
