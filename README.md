@@ -44,6 +44,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/fayaz-ahamed-shaik"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/raftaar_fayaz"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://fayaz-ahameds-portfolio.netlify.app/"><img src="https://img.shields.io/badge/My%20Website?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 </p>
 
