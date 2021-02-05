@@ -64,7 +64,7 @@
 
 ---
 
-<h1 align="center"> Good Luck From [Raftaar-Fayaz](https://github.com/Raftaar-Fayaz) </h1>
+<h1 align="center"> Good Luck From <a href="https://github.com/Raftaar-Fayaz">Raftaar-Fayaz</a></h1>
 
 
 
