@@ -8,11 +8,12 @@
 
 ---
 
-
+<p align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true"><br/>
-
+</p>
+<p align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
-
+</p>
 
 <h2>About Me</h2>
 
@@ -26,6 +27,7 @@
 - Pursuing Web Development as hobbies/side hustles.
 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 
 <h3>🛠 Tech Stack</h3>
 
@@ -43,7 +45,7 @@
 
 
 
-<hr>
+
 
 
 
