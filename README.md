@@ -44,6 +44,8 @@ Pursuing Web Development as hobbies/side hustles.
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 </p>
 <p align="center">
+  <br/>
+  <br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 </p>
 <br/>
