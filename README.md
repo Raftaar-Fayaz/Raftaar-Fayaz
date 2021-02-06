@@ -39,13 +39,14 @@ Pursuing Web Development as hobbies/side hustles.
  
 ---
 
-<h2 align="center"> Top Languages Used & Stats</h2>
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 </p>
 <p align="center">
   <br/>
   <br/>
+<h3 align="center"> Git Stats</h3>
+  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 </p>
 <br/>
