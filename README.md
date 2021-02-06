@@ -57,8 +57,6 @@ Pursuing Web Development as hobbies/side hustles.
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 
 ---
