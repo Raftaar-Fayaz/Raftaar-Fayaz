@@ -33,7 +33,7 @@
 <a href="https://www.instagram.com/raftaar_fayaz"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 <p align="center">
-  <a href="https://fayaz-ahameds-portfolio.netlify.app/"><h1 align="center">Portfolio</h1></a>
+  <a href="https://fayaz-ahameds-portfolio.netlify.app/"><h1 align="center" border="1px solid blue" >Portfolio</h1></a>
 </p>
 
 ---
