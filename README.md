@@ -1,5 +1,4 @@
 <p align="center">  
-  <img src="https://i.ibb.co/KX3BBt1/NEW-Title-Card.jpg" width="100%" title="Intro Card" alt="Intro Card">
   <img src="https://live.staticflickr.com/65535/50917248108_71dba6e700_b.jpg" width="100%" title="Intro Card" alt="Intro Card">
   
 </p>
