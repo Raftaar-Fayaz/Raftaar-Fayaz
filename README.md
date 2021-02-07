@@ -10,7 +10,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 </p>
 <p align="center">
-<h2 align="center"> GitHub Stats</h2>
+<h3 align="center"> GitHub Stats</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Raftaar-Fayaz&show_icons=true&hide_border=true">
 </p>
 <br/>
