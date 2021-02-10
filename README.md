@@ -1,6 +1,7 @@
 <p align="center">  
-  <img src="https://live.staticflickr.com/65535/50917248108_71dba6e700_b.jpg" width="100%">  
+  <img src="https://live.staticflickr.com/65535/50917248108_71dba6e700_b.jpg" width="100%">
 </p>
+
 
 ---
 
